@@ -1,2 +1,6 @@
 sachin gowda k s
+<<<<<<< HEAD
 this is my laptop1
+=======
+this is second laptop
+>>>>>>> branch1
